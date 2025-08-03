@@ -28,15 +28,15 @@ El script_
 |            | Script que lista   |  versiones/v1_   |
 |     V1     | procesos activos   |  listado_procesos|
 |            | del sistema        |   .py            |
-|------------|--------------------|------------------|
+|            |                    |                  |
 |            |  Lanza un proceso  | versiones/v2_    |
 |     V2     | señuelo con nombre | proceso_señuelo  |
 |            | llamativo          |  .py             |
-|------------|--------------------|------------------|                                                  
+|            |                    |                  |                                                  
 |            | Vigila el proceso  | versiones/v3_    |
 |     V3     |  y detecta si lo   |  vigilancia.py   |
 |            | matan. Guarda logs.|                  |
-|------------|--------------------|------------------|
+|            |                    |                  |
 
 
 
