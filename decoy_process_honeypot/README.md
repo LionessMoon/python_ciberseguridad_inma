@@ -36,7 +36,7 @@ El script_
 |   V3       | Vigila el proceso |'versiones/v3_   |
 |            | y detecta si lo   |vigilancia.py    |
 |            |matan. Guarda logs.|                 |
-----------------------------------------------------
+
 
 ## Cómo usarlo
 
