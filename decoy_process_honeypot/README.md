@@ -23,19 +23,19 @@ El script_
 
 ## ¿Que incluye el repositorio?
 
-| Versión    |   Descripción     |   Archivo       |
-|------------|-------------------|-----------------|
-|   V1        Script que lista    versiones/v1_    |
-|             procesos activos    listado_procesos |
-|             del sistema          .py             |
-|------------|-------------------|-----------------|
-|   V2         Lanza un proceso   versiones/v2_    |
-|             señuelo con nombre  proceso_señuelo  |
-|             llamativo            .py             |
-|------------|-------------------|-----------------|                                                  
-|   V3         Vigila el proceso  versiones/v3_    |
-|              y detecta si lo    vigilancia.py    |
-|             matan. Guarda logs.                  |
+| Versión    |   Descripción      |   Archivo        |
+|------------|--------------------|------------------|
+|   V1       |Script que lista    | versiones/v1_    |
+|            |procesos activos    | listado_procesos |
+|            |del sistema         |  .py             |
+|            |                    |                  |
+|   V2       |  Lanza un proceso  | versiones/v2_    |
+|            | señuelo con nombre | proceso_señuelo  |
+|            | llamativo          |  .py             |
+|            |                    |                  |                                                  
+|   V3       | Vigila el proceso  |versiones/v3_     |
+|            |  y detecta si lo   | vigilancia.py    |
+|            | matan. Guarda logs.|                  |
 
 
 ## Cómo usarlo
